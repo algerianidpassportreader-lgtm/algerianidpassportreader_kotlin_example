@@ -12,7 +12,7 @@ AlgerianIDPassportSDKManager.initialize(
     token = "YOUR_TOKEN_HERE"  // ← Enter your token here
 )
 
-Connect your Android device to your PC
+2 - Connect your Android device to your PC
 
-Open in Android Studio and run the app
+3 - Open in Android Studio and run the app
 
