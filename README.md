@@ -1,7 +1,7 @@
 Algerian ID & Passport Reader - Kotlin Example
 A new Kotlin example project for reading ID card and passport of Algeria using algerianidpassportreader SDK.
 
-https://github.com/user-attachments/assets/8020629c-8e52-48cf-a479-698d805dabd1
+![photo_5895675511457909642_y](https://github.com/user-attachments/assets/8020629c-8e52-48cf-a479-698d805dabd1)
 
 ## Getting Started
 1 - Add Your Token :
